@@ -1,6 +1,5 @@
-# This Python 3 environment comes with many helpful analytics libraries installed
-# It is defined by the kaggle/python docker image: https://github.com/kaggle/docker-python
-# For example, here's several helpful packages to load in
+# Simple solution based of a Kaggle solution for a similar problem
+# Notebook: https://www.kaggle.com/rruizendaal/visualizations-tree-based-classification-methods
 
 import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
 from sklearn.preprocessing import LabelEncoder
