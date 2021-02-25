@@ -16,7 +16,7 @@ def main():
             line_count += 1
             data += [row]
     target = "Gpa"
-    tree = DecisionTree(data, attributes, target, 0)
+    tree = DecisionTree(data, attributes, target)
     with open('decision_tree.json', 'w') as decision_tree_out_file:
         decision_tree_out_file.write(json.dumps(tree.tree))
 

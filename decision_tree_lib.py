@@ -4,35 +4,32 @@ import math
 
 class DecisionTree:
 
-    def __init__(self, data, attributes, target, recursion):
-        recursion += 1
+    def __init__(self, data, attributes, target):
         self.data = copy.copy(data)
         self.tree = {}
-        vals = [record[attributes.index(target)] for record in self.data]
-        default = self.majority(attributes, target)
-
-        if not data or (len(attributes) - 1) <= 0:
-            self.tree = default
-        elif vals.count(vals[0]) == len(vals):
-            self.tree = vals[0]
-        else:
-            best = self.choose_attr(attributes, target)
-            self.tree = {best: {}}
-
-            for val in self.get_values(attributes, best):
-                examples = self.get_examples(attributes, best, val)
-                new_attr = copy.copy(attributes)
-                new_attr.remove(best)
-                subtree = DecisionTree(examples, new_attr, target, recursion).tree
-                self.tree[best][val] = subtree
+        values = [d[attributes.index(target)] for d in self.data]
+        if not data or (len(attributes) - 1) < 1:
+            self.tree = self.majority(attributes, target)
+            return
+        if values.count(values[0]) == len(values):
+            self.tree = values[0]
+            return
+        best = self.choose_attr(attributes, target)
+        self.tree = {best: {}}
+        for val in self.get_values(attributes, best):
+            examples = self.get_examples(attributes, best, val)
+            new_attr = copy.copy(attributes)
+            new_attr.remove(best)
+            subtree = DecisionTree(examples, new_attr, target).tree
+            self.tree[best][val] = subtree
 
     def majority(self, attributes, target):
         val_freq = {}
         idx = attributes.index(target)
         for d in self.data:
             val_freq[d[idx]] = val_freq.get(d[idx], 0) + 1
-        _max = 0
         major = ""
+        _max = 0
         for key in val_freq.keys():
             if val_freq[key] > _max:
                 _max = val_freq[key]
@@ -85,14 +82,14 @@ class DecisionTree:
         return values
 
     def get_examples(self, attributes, best, val):
-        examples = [[]]
         index = attributes.index(best)
+        examples = [[]]
         for entry in self.data:
             if entry[index] == val:
                 new_entry = []
-                for i in range(0, len(entry)):
+                for i, element in enumerate(entry):
                     if i != index:
-                        new_entry.append(entry[i])
+                        new_entry.append(element)
                 examples.append(new_entry)
         examples.remove([])
         return examples
