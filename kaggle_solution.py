@@ -11,8 +11,8 @@ from sklearn.metrics import confusion_matrix, classification_report, accuracy_sc
 # Import data, start exploratory data analysis
 edm = pd.read_csv('./dataset/xAPI-Edu-Data.csv')
 edm.head()
-# Some of the columns seem to have random capitalizations in then, let's make this look a bit tidier
 
+# Some of the columns seem to have random capitalizations in then, let's make this look a bit tidier
 edm.rename(index=str,
            columns={'gender': 'Gender',
                     'NationalITy': 'Nationality',
@@ -20,8 +20,8 @@ edm.rename(index=str,
                     'VisITedResources': 'VisitedResources'},
            inplace=True)
 
-X = edm.drop('Class', axis=1)
-y = edm['Class']
+X = edm.drop('Topic', axis=1)
+y = edm['Topic']
 
 # Encoding our categorical columns in X
 labelEncoder = LabelEncoder()
