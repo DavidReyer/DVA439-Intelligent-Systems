@@ -4,8 +4,9 @@
 import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
 from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
-from sklearn.tree import DecisionTreeClassifier
+from sklearn.tree import DecisionTreeClassifier, plot_tree
 from sklearn.metrics import confusion_matrix, classification_report, accuracy_score
+import matplotlib.pyplot as plt
 
 # Any results you write to the current directory are saved as output.
 # Import data, start exploratory data analysis
@@ -47,3 +48,9 @@ print(confusion_matrix(y_test, pred))
 print(classification_report(y_test, pred))
 acc = accuracy_score(y_test, pred)
 print("accuracy is " + str(acc))
+
+plt.figure()
+plot_tree(model)
+plt.savefig('tree.svg')
+plt.show()
+
