@@ -6,7 +6,7 @@ from decision_tree_lib import DecisionTree
 def main():
     attributes = []
     data = []
-    with open('datasets/2/training-data-rank-without-rank-total.csv', mode='r') as csv_file:
+    with open('datasets/2/training-data-rank-without-rank-total-by-grades.csv', mode='r') as csv_file:
         csv_reader = csv.reader(csv_file)
         line_count = 0
         for row in csv_reader:
