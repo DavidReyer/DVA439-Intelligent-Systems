@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 
 # Any results you write to the current directory are saved as output.
 # Import data, start exploratory data analysis
-edm = pd.read_csv('./dataset/xAPI-Edu-Data.csv')
+edm = pd.read_csv('datasets/1/xAPI-Edu-Data.csv')
 edm.head()
 
 # Some of the columns seem to have random capitalizations in then, let's make this look a bit tidier

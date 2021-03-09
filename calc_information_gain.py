@@ -64,7 +64,7 @@ def highest_info_gain(dataset, columns, target_col):
     return max(information_gains, key=information_gains.get), information_gains
 
 
-dataset = pd.read_csv('dataset/xAPI-Edu-Data.csv')
+dataset = pd.read_csv('datasets/1/xAPI-Edu-Data.csv')
 columns = dataset.columns
 
 abstraction_dict = {}
