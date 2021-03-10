@@ -18,4 +18,7 @@ dataset["VisITedResources"] = dataset["VisITedResources"].apply(map_function)
 dataset["AnnouncementsView"] = dataset["AnnouncementsView"].apply(map_function)
 dataset["Discussion"] = dataset["Discussion"].apply(map_function)
 
-dataset.to_csv('datasets/1/xAPI-Edu-Data-categorized.csv', index=False)
+columns = list(dataset.columns)
+columns += [columns.pop(columns.index('Topic'))]
+
+dataset.to_csv('datasets/1/xAPI-Edu-Data-categorized.csv', columns=columns, index=False)
