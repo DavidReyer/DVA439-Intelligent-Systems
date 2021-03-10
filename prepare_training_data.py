@@ -1,8 +1,7 @@
 import csv
 
 CONVERT = {
-    90: 'A',
-    75: 'B',
+    70: 'A-B',
     60: 'C',
     50: 'D',
     0: 'F'
