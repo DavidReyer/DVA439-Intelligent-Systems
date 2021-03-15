@@ -48,6 +48,7 @@ function askTree() {
                     </label>
                 </div>`;
             }
+            // save handled item
             prev_item = item;
             // move tree forward
             tree = tree[item];
