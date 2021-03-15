@@ -3,49 +3,11 @@
 {% block title %}Course Recommendation System{% endblock %}
 
 {%  block form %}
-<form action="{{ url_for("edu_result") }}" method="post">
-
-    <p>Are you female or male?</p>
-    <label for="M">Male</label>
-    <input type="radio" id="M" name="gender" value="M" checked><br>
-    <label for="F">Female</label>
-    <input type="radio" id="F" name="gender" value="F"><br>
-
-    <p>What is your nationality?</p>
-    <select name="nationality" id="NationalITy">
-            <option value="KW" selected>Kuwait</option>
-    </select>
-
-    <p>What is your nationality?</p>
-    <select name="nationality" id="PlaceofBirth">
-            <option value="KuwaIT" selected>Kuwait</option>
-    </select>
-
-    <p>How many absence days do you have normally?</p>
-    <label for="Under-7">Less than 7</label>
-    <input type="radio" id="Under-7" name="StudentAbsenceDays" value="Under-7" checked><br>
-    <label for="Above-7">Mode than 7</label>
-    <input type="radio" id="Above-7" name="StudentAbsenceDays" value="Above-7"><br>
-
-    <p>Are your parents normally satisfied with your school?</p>
-    <label for="Good" >Yes</label>
-    <input type="radio" id="Good" name="ParentschoolSatisfaction" value="Good" checked><br>
-    <label for="Bad">No</label>
-    <input type="radio" id="Bad" name="ParentschoolSatisfaction" value="Bad"><br>
-
-    <input type="hidden" id="StageID" name="StageID" value="lowerlevel">
-    <input type="hidden" id="GradeID" name="GradeID" value="G-04">
-    <input type="hidden" id="SectionID" name="SectionID" value="A">
-    <input type="hidden" id="Semester" name="Semester" value="F">
-    <input type="hidden" id="Relation" name="Relation" value="Father">
-    <input type="hidden" id="raisedhands" name="raisedhands" value="20">
-    <input type="hidden" id="VisITedResources" name="VisITedResources" value="20">
-    <input type="hidden" id="AnnouncementsView" name="AnnouncementsView" value="20">
-    <input type="hidden" id="Discussion" name="Discussion" value="20">
-    <input type="hidden" id="ParentAnsweringSurvey" name="ParentAnsweringSurvey" value="Yes">
-    <input type="hidden" id="ParentschoolSatisfaction" name="ParentschoolSatisfaction" value="Good">
-    <input type="hidden" id="StudentAbsenceDays" name="StudentAbsenceDays" value="Under-7">
-
-    <input type="submit" value="Submit">
-</form>
+<script>
+    tree = {{ edu_tree | safe }};
+    orig_tree = tree;
+</script>
+<div id="formdiv">
+    <button onclick="askTree()">start</button>
+</div>
 {% endblock %}
