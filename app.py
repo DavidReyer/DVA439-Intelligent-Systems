@@ -30,27 +30,13 @@ def edu_result():
     global edu_tree
     request_dict = {}
     try:
-        request_dict['gender'] = request.form['gender']
-        request_dict['NationalITy'] = request.form['NationalITy']
-        request_dict['PlaceofBirth'] = request.form['PlaceofBirth']
-        request_dict['StageID'] = request.form['StageID']
-        request_dict['GradeID'] = request.form['GradeID']
-        request_dict['SectionID'] = request.form['SectionID']
-        request_dict['Semester'] = request.form['Semester']
-        request_dict['Relation'] = request.form['Relation']
-        request_dict['raisedhands'] = request.form['raisedhands']
-        request_dict['VisITedResources'] = request.form['VisITedResources']
-        request_dict['AnnouncementsView'] = request.form['AnnouncementsView']
-        request_dict['Discussion'] = request.form['Discussion']
-        request_dict['ParentAnsweringSurvey'] = request.form['ParentAnsweringSurvey']
-        request_dict['ParentschoolSatisfaction'] = request.form['ParentschoolSatisfaction']
-        request_dict['StudentAbsenceDays'] = request.form['StudentAbsenceDays']
+        request_dict = dict(request.form)
     except Exception:
         print(Exception)
 
-    process_input(edu_tree, request_dict)
+    answer = process_input(edu_tree, request_dict)
 
-    return render_template("edu_form.html")
+    return render_template("result.html")
 
 
 if __name__ == '__main__':
