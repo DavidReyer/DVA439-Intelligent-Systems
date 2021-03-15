@@ -20,5 +20,6 @@ dataset["Discussion"] = dataset["Discussion"].apply(map_function)
 
 columns = list(dataset.columns)
 columns += [columns.pop(columns.index('Topic'))]
+columns.pop(columns.index('Class'))
 
 dataset.to_csv('datasets/1/xAPI-Edu-Data-categorized.csv', columns=columns, index=False)

@@ -3,5 +3,26 @@
 {% block title %}Course Recommendation System{% endblock %}
 
 {%  block form %}
-<p>Hello World</p>
+<form action="{{ url_for("edu_result") }}" method="post">
+
+    <p>How many absence days do you have normally?</p>
+    <label for="Under-7">Less than 7</label>
+    <input type="radio" id="Under-7" name="StudentAbsenceDays"><br>
+    <label for="Above-7">Mode than 7</label>
+    <input type="radio" id="Above-7" name="StudentAbsenceDays"><br>
+
+    <p>Are your parents normally satisfied with your school?</p>
+    <label for="Good">Yes</label>
+    <input type="radio" id="Good" name="ParentschoolSatisfaction"><br>
+    <label for="Bad">No</label>
+    <input type="radio" id="Bad" name="ParentschoolSatisfaction"><br>
+
+    <p>Are you female or male?</p>
+    <label for="M">Male</label>
+    <input type="radio" id="M" name="gender"><br>
+    <label for="F">Female</label>
+    <input type="radio" id="F" name="gender"><br>
+
+    <input type="submit" value="Submit">
+</form>
 {% endblock %}
