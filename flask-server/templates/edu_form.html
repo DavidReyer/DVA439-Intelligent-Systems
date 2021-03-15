@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block title %}Course Recommendation System{% endblock %}
+
+{%  block form %}
+<script>
+    tree = {{ edu_tree | safe }};
+    orig_tree = tree;
+</script>
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <div>
+                <a href="/">
+                    <button class="btn-primary" type="button">Back</button>
+                </a>
+            </div>
+        </div>
+        <div class="col">
+            <h1 class="text-center">
+                Do you know what is your {{ title }}?
+            </h1>
+            <div id="formdiv">
+
+            </div>
+            <br>
+            <div>
+                <button id="start_btn" class="form-control btn-primary" type="button" onclick="askTree()">Start</button>
+            </div>
+        </div>
+        <div class="col-sm">
+        </div>
+    </div>
+</div>
+
+
+{% endblock %}

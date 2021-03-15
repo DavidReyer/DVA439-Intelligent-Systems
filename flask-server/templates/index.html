@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block title %}Course Recommendation System{% endblock %}
+
+{%  block form %}
+<div class="container">
+    <div class="row">
+        <div class="col">
+        </div>
+        <div class="col">
+            <h1 class="text-center">
+                Select prediction systems:
+            </h1>
+            <div id="formdiv">
+
+            </div>
+            <br>
+            <div>
+                <a href="/gpa/">
+                    <button class="form-control btn-primary" type="button">GPA</button>
+                </a>
+            </div>
+            <br>
+            <div>
+                <a href="/edu/">
+                    <button class="form-control btn-primary" type="button">EDU</button>
+                </a>
+            </div>
+        </div>
+        <div class="col-sm">
+        </div>
+    </div>
+</div>
+
+
+{% endblock %}

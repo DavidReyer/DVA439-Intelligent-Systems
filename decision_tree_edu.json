@@ -1,1 +1,1719 @@
-{"StudentAbsenceDays": {"Under-7": {"ParentschoolSatisfaction": {"Good": {"ParentAnsweringSurvey": {"Yes": {"Discussion": {"100": {"AnnouncementsView": {"20": {"GradeID": {"G-04": {"gender": {"M": {"NationalITy": {"KW": {"PlaceofBirth": {"KuwaIT": {"StageID": {"lowerlevel": {"SectionID": {"A": {"Semester": {"F": "IT", "S": "History"}}}}}}}}}}}}, "G-07": "IT", "G-02": "IT", "G-08": "Spanish"}}, "40": {"VisITedResources": {"100": {"StageID": {"MiddleSchool": {"gender": {"M": {"NationalITy": {"KW": "Math", "Jordan": "Quran"}}}}, "lowerlevel": "Arabic"}}, "20": {"gender": {"F": {"NationalITy": {"KW": {"PlaceofBirth": {"KuwaIT": {"StageID": {"MiddleSchool": "IT", "HighSchool": "English"}}}}}}, "M": "Math"}}, "60": "IT", "40": "IT", "80": {"NationalITy": {"KW": "IT", "USA": "English", "Jordan": "Arabic"}}}}, "100": {"VisITedResources": {"60": "IT", "100": {"raisedhands": {"20": "English", "60": "IT", "100": {"gender": {"F": "History", "M": {"NationalITy": {"Palestine": "Biology", "Iraq": {"PlaceofBirth": {"Iraq": {"StageID": {"MiddleSchool": {"GradeID": {"G-07": "Biology", "G-08": "Chemistry"}}}}}}}}}}, "80": "Science"}}, "80": "English"}}, "80": {"VisITedResources": {"100": {"raisedhands": {"100": {"NationalITy": {"venzuela": "IT", "Palestine": "Biology", "Jordan": {"gender": {"M": "History", "F": "Geology"}}}}, "80": {"gender": {"F": {"NationalITy": {"Jordan": {"PlaceofBirth": {"lebanon": "Science", "Palestine": "French"}}}}, "M": "Geology"}}}}, "80": {"NationalITy": {"SaudiArabia": "Science", "Palestine": {"gender": {"M": {"PlaceofBirth": {"Jordan": {"StageID": {"MiddleSchool": {"GradeID": {"G-06": "English", "G-07": "Biology"}}}}}}, "F": "Science"}}, "Jordan": "French"}}, "60": "Science"}}, "60": {"VisITedResources": {"100": {"raisedhands": {"80": {"NationalITy": {"Jordan": {"gender": {"F": "IT", "M": "Biology"}}, "Egypt": "Science"}}, "100": {"gender": {"F": {"NationalITy": {"Iraq": "Biology", "Jordan": "Chemistry"}}}}, "60": "History"}}, "80": "Science"}}}}, "40": {"AnnouncementsView": {"20": {"StageID": {"lowerlevel": "IT", "MiddleSchool": {"gender": {"M": {"NationalITy": {"KW": {"PlaceofBirth": {"KuwaIT": {"GradeID": {"G-07": "Math", "G-08": "Arabic"}}}}}}}}}}, "40": {"VisITedResources": {"80": {"gender": {"F": "IT", "M": "Arabic"}}, "100": {"raisedhands": {"100": {"gender": {"M": {"NationalITy": {"KW": "IT", "Iraq": "Arabic"}}, "F": "Chemistry"}}, "40": "French", "80": "Arabic"}}, "60": "French", "40": "English"}}, "100": {"NationalITy": {"KW": "French", "lebanon": "Arabic", "Jordan": "French", "Iraq": "Arabic"}}, "60": {"VisITedResources": {"60": {"SectionID": {"A": "Arabic", "C": "Spanish"}}, "40": "English", "100": {"raisedhands": {"40": "French", "100": {"NationalITy": {"Palestine": "Arabic", "Iraq": "Biology", "Jordan": "Chemistry"}}, "80": {"NationalITy": {"Iraq": "Arabic", "Jordan": "Chemistry"}}}}}}, "80": {"gender": {"M": {"NationalITy": {"Jordan": {"PlaceofBirth": {"Jordan": {"StageID": {"MiddleSchool": {"GradeID": {"G-08": {"SectionID": {"A": {"Semester": {"F": "Geology", "S": {"Relation": {"Mum": {"raisedhands": {"80": {"VisITedResources": {"100": "Geology"}}}}}}}}}}}}}}}}}}}}}}, "60": {"AnnouncementsView": {"20": {"VisITedResources": {"40": "Math", "100": "Math", "20": "IT"}}, "60": {"VisITedResources": {"100": {"NationalITy": {"KW": "Science", "SaudiArabia": "Quran", "Jordan": "Science"}}, "80": {"NationalITy": {"KW": "Arabic", "Jordan": "Science"}}, "60": "Arabic"}}, "40": {"NationalITy": {"Iran": "IT", "Tunis": "French", "KW": "Arabic", "Jordan": "Chemistry"}}, "100": {"NationalITy": {"SaudiArabia": "IT", "Jordan": "IT", "Tunis": "French", "Palestine": "History"}}, "80": {"VisITedResources": {"80": {"raisedhands": {"80": {"gender": {"M": "Arabic", "F": "Science"}}, "100": "Arabic"}}, "100": {"NationalITy": {"KW": "Arabic", "Palestine": {"gender": {"M": {"PlaceofBirth": {"Jordan": {"StageID": {"MiddleSchool": {"GradeID": {"G-07": "Biology", "G-08": "History"}}}}}}}}, "Jordan": "Geology"}}}}}}, "80": {"AnnouncementsView": {"40": {"gender": {"F": {"NationalITy": {"KW": "IT", "SaudiArabia": "Science"}}}}, "60": {"VisITedResources": {"100": {"GradeID": {"G-08": {"gender": {"F": {"NationalITy": {"KW": "Arabic", "Jordan": "History"}}}}, "G-04": "English", "G-07": "Biology"}}, "40": "English", "80": "Quran"}}, "20": {"StageID": {"HighSchool": "Science", "lowerlevel": "IT", "MiddleSchool": "Quran"}}, "100": {"gender": {"F": {"NationalITy": {"Egypt": "Quran", "KW": "Quran", "lebanon": "English", "Palestine": "Science", "Syria": "Biology"}}, "M": {"NationalITy": {"Egypt": "Science", "Iraq": "Biology"}}}}, "80": {"VisITedResources": {"80": {"NationalITy": {"Morocco": "French", "Palestine": "English", "Jordan": "Geology"}}, "100": {"NationalITy": {"KW": "Science", "Syria": "Biology", "Jordan": "Geology", "Palestine": "Geology"}}}}}}, "20": {"AnnouncementsView": {"20": {"raisedhands": {"20": {"gender": {"M": {"NationalITy": {"KW": {"PlaceofBirth": {"KuwaIT": {"StageID": {"MiddleSchool": {"GradeID": {"G-07": "Math", "G-08": "Spanish"}}}}}}}}}}, "60": "IT", "80": "IT", "100": "French"}}, "60": {"VisITedResources": {"100": {"gender": {"M": {"NationalITy": {"KW": {"PlaceofBirth": {"KuwaIT": {"StageID": {"lowerlevel": "IT", "MiddleSchool": "Quran"}}}}, "Tunis": "Spanish"}}, "F": {"NationalITy": {"KW": "IT", "lebanon": "French"}}}}, "80": {"NationalITy": {"Tunis": "Quran", "lebanon": "Spanish"}}, "40": {"SectionID": {"B": "Arabic", "C": "Spanish"}}}}, "100": {"gender": {"M": {"NationalITy": {"Jordan": {"PlaceofBirth": {"SaudiArabia": "Spanish", "Jordan": {"StageID": {"lowerlevel": "French", "MiddleSchool": "Geology"}}}}}}, "F": {"NationalITy": {"Jordan": {"PlaceofBirth": {"KuwaIT": "Spanish", "Jordan": {"StageID": {"lowerlevel": "French", "MiddleSchool": "Chemistry"}}}}}}}}, "40": {"gender": {"F": {"NationalITy": {"Jordan": {"PlaceofBirth": {"Jordan": {"StageID": {"lowerlevel": "French", "MiddleSchool": "Chemistry"}}}}}}}}, "80": "Chemistry"}}}}, "No": {"Discussion": {"60": {"gender": {"M": "IT", "F": "Biology"}}, "100": {"AnnouncementsView": {"40": {"gender": {"F": "Math", "M": "Science"}}, "60": "IT", "80": {"gender": {"F": {"NationalITy": {"KW": "History", "Jordan": "English"}}, "M": "Biology"}}, "100": {"VisITedResources": {"100": {"gender": {"F": {"NationalITy": {"Jordan": {"PlaceofBirth": {"Jordan": {"StageID": {"MiddleSchool": "English", "lowerlevel": "Science"}}}}}}, "M": "Biology"}}, "80": "Science"}}, "20": "French"}}, "20": {"NationalITy": {"KW": "IT", "Palestine": "French", "Iraq": "French", "Jordan": "French"}}, "40": {"AnnouncementsView": {"40": {"gender": {"M": "French", "F": {"NationalITy": {"Jordan": {"PlaceofBirth": {"Jordan": {"StageID": {"MiddleSchool": "English", "lowerlevel": "French"}}}}}}}}, "100": {"gender": {"M": "Spanish", "F": {"NationalITy": {"Palestine": {"PlaceofBirth": {"Jordan": {"StageID": {"lowerlevel": {"GradeID": {"G-02": {"SectionID": {"A": {"Semester": {"F": {"Relation": {"Mum": {"raisedhands": {"80": "French", "100": "Arabic"}}}}}}}}}}}}}}, "Jordan": "French"}}}}, "60": {"VisITedResources": {"100": {"NationalITy": {"Jordan": "English", "Iraq": "English", "Palestine": "Arabic"}}, "40": "English", "60": "English", "80": "English"}}, "20": "Biology"}}, "80": "History"}}}}, "Bad": {"ParentAnsweringSurvey": {"No": {"Discussion": {"100": {"AnnouncementsView": {"20": {"VisITedResources": {"20": "IT", "40": "IT", "100": {"gender": {"F": "English", "M": "IT"}}}}, "40": {"GradeID": {"G-09": "IT", "G-07": "Quran", "G-08": "Spanish"}}, "60": "Quran", "100": {"NationalITy": {"Jordan": "Quran", "KW": "Science"}}, "80": "Geology"}}, "40": {"AnnouncementsView": {"40": {"VisITedResources": {"100": {"GradeID": {"G-08": "Arabic", "G-04": "Science", "G-02": "French"}}, "80": {"NationalITy": {"lebanon": "Quran", "Jordan": "Geology"}}, "20": {"gender": {"M": {"NationalITy": {"KW": "French", "Jordan": "Arabic"}}}}, "60": "Science"}}, "20": {"VisITedResources": {"100": {"raisedhands": {"40": {"gender": {"M": {"NationalITy": {"Jordan": {"PlaceofBirth": {"Jordan": {"StageID": {"MiddleSchool": {"GradeID": {"G-07": "IT", "G-06": "English"}}}}}}}}}}, "80": "Spanish", "60": "Biology"}}, "20": "IT", "80": {"NationalITy": {"KW": "Arabic", "Jordan": {"gender": {"M": "Biology", "F": "Geology"}}}}, "40": "French"}}, "100": {"gender": {"M": "French", "F": "English"}}, "80": {"NationalITy": {"Morocco": "Arabic", "KW": "Spanish"}}, "60": {"gender": {"F": "English", "M": "Arabic"}}}}, "20": {"AnnouncementsView": {"20": {"GradeID": {"G-07": {"gender": {"M": {"NationalITy": {"KW": {"PlaceofBirth": {"KuwaIT": {"StageID": {"MiddleSchool": {"SectionID": {"A": "Math", "B": "IT"}}}}}}}}}}, "G-08": "Arabic", "G-06": "English"}}, "40": "IT", "100": "IT", "60": "Spanish"}}, "60": {"AnnouncementsView": {"20": "IT", "60": "French", "40": "Arabic", "80": "Arabic"}}, "80": {"AnnouncementsView": {"20": {"gender": {"F": {"NationalITy": {"KW": "IT", "Jordan": "French"}}}}, "100": "Quran", "60": "Science", "40": "Geology"}}}}, "Yes": {"Discussion": {"100": {"AnnouncementsView": {"40": {"gender": {"M": "IT", "F": "Science"}}, "20": "Math", "100": {"GradeID": {"G-02": "IT", "G-11": "Science", "G-08": "Spanish", "G-07": {"gender": {"M": {"NationalITy": {"KW": {"PlaceofBirth": {"KuwaIT": {"StageID": {"MiddleSchool": {"SectionID": {"B": {"Semester": {"S": {"Relation": {"Mum": {"raisedhands": {"80": {"VisITedResources": {"100": "Science"}}}}}}}}}}}}}}}}}}}}, "80": {"gender": {"M": "Math", "F": "French"}}, "60": {"raisedhands": {"20": "Arabic", "40": "Arabic", "100": "Spanish"}}}}, "20": {"NationalITy": {"KW": "IT", "Tunis": "Quran", "USA": "French", "lebanon": "French"}}, "60": {"NationalITy": {"lebanon": "Math", "KW": "Arabic", "Jordan": "Science"}}, "40": {"NationalITy": {"KW": "IT", "Tunis": "French"}}, "80": {"GradeID": {"G-07": {"gender": {"F": "Quran", "M": "Biology"}}, "G-08": "Spanish", "G-06": "IT"}}}}}}}}, "Above-7": {"ParentschoolSatisfaction": {"Bad": {"ParentAnsweringSurvey": {"No": {"Discussion": {"40": {"AnnouncementsView": {"20": {"VisITedResources": {"20": {"GradeID": {"G-04": "IT", "G-08": "Arabic", "G-07": {"gender": {"M": {"NationalITy": {"KW": {"PlaceofBirth": {"KuwaIT": {"StageID": {"MiddleSchool": {"SectionID": {"A": "English", "B": "Science"}}}}}}}}}}, "G-05": "English", "G-12": "English", "G-02": {"gender": {"M": {"NationalITy": {"KW": "IT", "Jordan": "French"}}, "F": "IT"}}}}, "40": {"gender": {"M": "IT", "F": "Science"}}, "60": {"NationalITy": {"KW": "English", "Iran": "Spanish"}}, "80": "French"}}, "40": {"StageID": {"MiddleSchool": "English", "lowerlevel": "Arabic"}}}}, "60": {"AnnouncementsView": {"20": {"VisITedResources": {"60": "IT", "20": {"gender": {"M": {"NationalITy": {"KW": "IT", "Iran": "French", "Jordan": "Chemistry"}}, "F": "History"}}, "40": "Arabic"}}, "40": {"NationalITy": {"SaudiArabia": "English", "Egypt": "Science", "Jordan": "Science"}}, "100": {"gender": {"F": "French", "M": "Arabic"}}, "60": "Arabic"}}, "20": {"AnnouncementsView": {"20": {"VisITedResources": {"20": {"raisedhands": {"40": "Math", "20": {"Relation": {"Father": {"Semester": {"F": {"GradeID": {"G-04": "IT", "G-06": "IT", "G-10": "IT", "G-12": "English", "G-11": "Quran", "G-02": "IT", "G-08": "Chemistry"}}, "S": {"GradeID": {"G-02": "IT", "G-07": "Quran", "G-04": "History", "G-08": "Chemistry"}}}}, "Mum": "Biology"}}, "100": "Math", "60": "Science"}}, "40": {"raisedhands": {"60": "IT", "80": "English", "40": "Science"}}, "60": "Spanish", "100": {"gender": {"M": "Science", "F": "Quran"}}}}, "60": {"PlaceofBirth": {"Tunis": "Quran", "KuwaIT": "Science", "Egypt": "Math"}}, "40": {"NationalITy": {"lebanon": "Arabic", "Tunis": "Spanish", "KW": "Spanish"}}, "100": {"gender": {"M": {"NationalITy": {"Jordan": {"PlaceofBirth": {"Jordan": {"StageID": {"lowerlevel": {"GradeID": {"G-04": "Science", "G-02": "French"}}}}}}}}}}}}, "100": {"AnnouncementsView": {"60": "Math", "100": {"GradeID": {"G-07": "IT", "G-11": "Spanish", "G-06": "Math", "G-02": "Arabic"}}, "40": {"VisITedResources": {"20": {"gender": {"M": "Math", "F": "Arabic"}}, "100": {"NationalITy": {"KW": "IT", "Jordan": "Arabic"}}}}, "20": {"GradeID": {"G-05": "English", "G-07": "Science", "G-02": "Arabic", "G-08": "Chemistry"}}}}, "80": {"NationalITy": {"KW": {"gender": {"F": {"PlaceofBirth": {"KuwaIT": {"StageID": {"MiddleSchool": "IT", "HighSchool": "English"}}}}, "M": "IT"}}, "Jordan": "History"}}}}, "Yes": {"Discussion": {"80": {"AnnouncementsView": {"20": "IT", "40": "Spanish", "100": "History", "60": "Arabic"}}, "20": "English", "60": {"gender": {"M": "IT", "F": "French"}}, "100": {"GradeID": {"G-07": "Quran", "G-06": "English", "G-02": "Arabic"}}, "40": {"gender": {"F": "Arabic", "M": "English"}}}}}}, "Good": {"ParentAnsweringSurvey": {"Yes": {"Discussion": {"80": {"AnnouncementsView": {"20": "IT", "60": "Science", "100": {"gender": {"M": {"NationalITy": {"Iraq": {"PlaceofBirth": {"Iraq": {"StageID": {"lowerlevel": "Science", "MiddleSchool": "Geology"}}}}}}}}, "80": {"NationalITy": {"Palestine": "Science", "Jordan": "History"}}}}, "100": {"AnnouncementsView": {"40": {"gender": {"M": {"NationalITy": {"KW": "IT", "Syria": "Spanish"}}}}, "20": {"gender": {"M": {"NationalITy": {"KW": {"PlaceofBirth": {"KuwaIT": {"StageID": {"MiddleSchool": "Math", "lowerlevel": "IT"}}}}}}, "F": "IT"}}, "80": {"VisITedResources": {"100": {"gender": {"M": {"NationalITy": {"KW": "Math", "Jordan": "Chemistry", "Iraq": "History"}}}}, "80": {"gender": {"M": {"NationalITy": {"Iraq": "Science", "Jordan": "Chemistry"}}}}, "60": "Science"}}, "60": "Geology", "100": "History"}}, "20": {"AnnouncementsView": {"100": {"VisITedResources": {"20": "IT", "80": {"gender": {"M": "French", "F": "Geology"}}, "100": "French"}}, "20": {"VisITedResources": {"20": {"gender": {"M": {"NationalITy": {"USA": "Math", "KW": {"PlaceofBirth": {"KuwaIT": {"StageID": {"MiddleSchool": "Math", "lowerlevel": "IT"}}}}}}}}, "40": "IT", "100": {"gender": {"F": "IT", "M": "English"}}}}, "60": {"gender": {"M": "IT", "F": {"NationalITy": {"KW": "IT", "Jordan": "Biology"}}}}, "40": {"gender": {"M": "Arabic", "F": "French"}}, "80": "Chemistry"}}, "60": {"NationalITy": {"KW": "IT", "Syria": "Quran", "Jordan": {"gender": {"F": {"PlaceofBirth": {"Jordan": {"StageID": {"MiddleSchool": {"GradeID": {"G-07": "Science", "G-08": "Geology"}}}}}}, "M": "Arabic"}}}}, "40": {"AnnouncementsView": {"20": {"gender": {"M": {"NationalITy": {"KW": {"PlaceofBirth": {"KuwaIT": {"StageID": {"MiddleSchool": "Science", "HighSchool": "IT"}}}}}}}}, "40": {"VisITedResources": {"40": "IT", "60": "French", "80": "English", "100": "Arabic"}}, "60": {"gender": {"F": "History", "M": "Arabic"}}, "80": {"StageID": {"lowerlevel": "Arabic", "MiddleSchool": "Chemistry"}}}}}}, "No": {"Discussion": {"80": "Quran", "60": {"NationalITy": {"KW": {"gender": {"M": {"PlaceofBirth": {"KuwaIT": {"StageID": {"HighSchool": "English", "lowerlevel": "IT"}}}}}}, "Jordan": "French"}}, "100": {"gender": {"F": "English", "M": "IT"}}, "20": {"AnnouncementsView": {"40": {"gender": {"F": "IT", "M": "English"}}, "20": {"NationalITy": {"KW": "IT", "Lybia": {"gender": {"M": "French", "F": "Biology"}}, "Egypt": "French", "Jordan": "Arabic"}}, "60": {"gender": {"M": {"NationalITy": {"Iran": "French", "KW": "Spanish"}}}}}}, "40": {"VisITedResources": {"20": {"gender": {"M": {"NationalITy": {"Jordan": {"PlaceofBirth": {"Jordan": {"StageID": {"lowerlevel": {"GradeID": {"G-04": "Science", "G-02": "French"}}}}}}}}}}, "40": "Science", "80": "Biology", "100": "Biology"}}}}}}}}}}
+{
+  "StudentAbsenceDays": {
+    "Under-7": {
+      "ParentschoolSatisfaction": {
+        "Good": {
+          "ParentAnsweringSurvey": {
+            "Yes": {
+              "Discussion": {
+                "100": {
+                  "AnnouncementsView": {
+                    "20": {
+                      "GradeID": {
+                        "G-04": {
+                          "gender": {
+                            "M": {
+                              "NationalITy": {
+                                "KW": {
+                                  "PlaceofBirth": {
+                                    "KuwaIT": {
+                                      "StageID": {
+                                        "lowerlevel": {
+                                          "SectionID": {
+                                            "A": {
+                                              "Semester": {
+                                                "F": "IT",
+                                                "S": "History"
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "G-07": "IT",
+                        "G-02": "IT",
+                        "G-08": "Spanish"
+                      }
+                    },
+                    "40": {
+                      "VisITedResources": {
+                        "100": {
+                          "StageID": {
+                            "MiddleSchool": {
+                              "gender": {
+                                "M": {
+                                  "NationalITy": {
+                                    "KW": "Math",
+                                    "Jordan": "Quran"
+                                  }
+                                }
+                              }
+                            },
+                            "lowerlevel": "Arabic"
+                          }
+                        },
+                        "20": {
+                          "gender": {
+                            "F": {
+                              "NationalITy": {
+                                "KW": {
+                                  "PlaceofBirth": {
+                                    "KuwaIT": {
+                                      "StageID": {
+                                        "MiddleSchool": "IT",
+                                        "HighSchool": "English"
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "M": "Math"
+                          }
+                        },
+                        "60": "IT",
+                        "40": "IT",
+                        "80": {
+                          "NationalITy": {
+                            "KW": "IT",
+                            "USA": "English",
+                            "Jordan": "Arabic"
+                          }
+                        }
+                      }
+                    },
+                    "100": {
+                      "VisITedResources": {
+                        "60": "IT",
+                        "100": {
+                          "raisedhands": {
+                            "20": "English",
+                            "60": "IT",
+                            "100": {
+                              "gender": {
+                                "F": "History",
+                                "M": {
+                                  "NationalITy": {
+                                    "Palestine": "Biology",
+                                    "Iraq": {
+                                      "PlaceofBirth": {
+                                        "Iraq": {
+                                          "StageID": {
+                                            "MiddleSchool": {
+                                              "GradeID": {
+                                                "G-07": "Biology",
+                                                "G-08": "Chemistry"
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "80": "Science"
+                          }
+                        },
+                        "80": "English"
+                      }
+                    },
+                    "80": {
+                      "VisITedResources": {
+                        "100": {
+                          "raisedhands": {
+                            "100": {
+                              "NationalITy": {
+                                "venzuela": "IT",
+                                "Palestine": "Biology",
+                                "Jordan": {
+                                  "gender": {
+                                    "M": "History",
+                                    "F": "Geology"
+                                  }
+                                }
+                              }
+                            },
+                            "80": {
+                              "gender": {
+                                "F": {
+                                  "NationalITy": {
+                                    "Jordan": {
+                                      "PlaceofBirth": {
+                                        "lebanon": "Science",
+                                        "Palestine": "French"
+                                      }
+                                    }
+                                  }
+                                },
+                                "M": "Geology"
+                              }
+                            }
+                          }
+                        },
+                        "80": {
+                          "NationalITy": {
+                            "SaudiArabia": "Science",
+                            "Palestine": {
+                              "gender": {
+                                "M": {
+                                  "PlaceofBirth": {
+                                    "Jordan": {
+                                      "StageID": {
+                                        "MiddleSchool": {
+                                          "GradeID": {
+                                            "G-06": "English",
+                                            "G-07": "Biology"
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                },
+                                "F": "Science"
+                              }
+                            },
+                            "Jordan": "French"
+                          }
+                        },
+                        "60": "Science"
+                      }
+                    },
+                    "60": {
+                      "VisITedResources": {
+                        "100": {
+                          "raisedhands": {
+                            "80": {
+                              "NationalITy": {
+                                "Jordan": {
+                                  "gender": {
+                                    "F": "IT",
+                                    "M": "Biology"
+                                  }
+                                },
+                                "Egypt": "Science"
+                              }
+                            },
+                            "100": {
+                              "gender": {
+                                "F": {
+                                  "NationalITy": {
+                                    "Iraq": "Biology",
+                                    "Jordan": "Chemistry"
+                                  }
+                                }
+                              }
+                            },
+                            "60": "History"
+                          }
+                        },
+                        "80": "Science"
+                      }
+                    }
+                  }
+                },
+                "40": {
+                  "AnnouncementsView": {
+                    "20": {
+                      "StageID": {
+                        "lowerlevel": "IT",
+                        "MiddleSchool": {
+                          "gender": {
+                            "M": {
+                              "NationalITy": {
+                                "KW": {
+                                  "PlaceofBirth": {
+                                    "KuwaIT": {
+                                      "GradeID": {
+                                        "G-07": "Math",
+                                        "G-08": "Arabic"
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "40": {
+                      "VisITedResources": {
+                        "80": {
+                          "gender": {
+                            "F": "IT",
+                            "M": "Arabic"
+                          }
+                        },
+                        "100": {
+                          "raisedhands": {
+                            "100": {
+                              "gender": {
+                                "M": {
+                                  "NationalITy": {
+                                    "KW": "IT",
+                                    "Iraq": "Arabic"
+                                  }
+                                },
+                                "F": "Chemistry"
+                              }
+                            },
+                            "40": "French",
+                            "80": "Arabic"
+                          }
+                        },
+                        "60": "French",
+                        "40": "English"
+                      }
+                    },
+                    "100": {
+                      "NationalITy": {
+                        "KW": "French",
+                        "lebanon": "Arabic",
+                        "Jordan": "French",
+                        "Iraq": "Arabic"
+                      }
+                    },
+                    "60": {
+                      "VisITedResources": {
+                        "60": {
+                          "SectionID": {
+                            "A": "Arabic",
+                            "C": "Spanish"
+                          }
+                        },
+                        "40": "English",
+                        "100": {
+                          "raisedhands": {
+                            "40": "French",
+                            "100": {
+                              "NationalITy": {
+                                "Palestine": "Arabic",
+                                "Iraq": "Biology",
+                                "Jordan": "Chemistry"
+                              }
+                            },
+                            "80": {
+                              "NationalITy": {
+                                "Iraq": "Arabic",
+                                "Jordan": "Chemistry"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "80": {
+                      "gender": {
+                        "M": {
+                          "NationalITy": {
+                            "Jordan": {
+                              "PlaceofBirth": {
+                                "Jordan": {
+                                  "StageID": {
+                                    "MiddleSchool": {
+                                      "GradeID": {
+                                        "G-08": {
+                                          "SectionID": {
+                                            "A": {
+                                              "Semester": {
+                                                "F": "Geology",
+                                                "S": {
+                                                  "Relation": {
+                                                    "Mum": {
+                                                      "raisedhands": {
+                                                        "80": {
+                                                          "VisITedResources": {
+                                                            "100": "Geology"
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "60": {
+                  "AnnouncementsView": {
+                    "20": {
+                      "VisITedResources": {
+                        "40": "Math",
+                        "100": "Math",
+                        "20": "IT"
+                      }
+                    },
+                    "60": {
+                      "VisITedResources": {
+                        "100": {
+                          "NationalITy": {
+                            "KW": "Science",
+                            "SaudiArabia": "Quran",
+                            "Jordan": "Science"
+                          }
+                        },
+                        "80": {
+                          "NationalITy": {
+                            "KW": "Arabic",
+                            "Jordan": "Science"
+                          }
+                        },
+                        "60": "Arabic"
+                      }
+                    },
+                    "40": {
+                      "NationalITy": {
+                        "Iran": "IT",
+                        "Tunis": "French",
+                        "KW": "Arabic",
+                        "Jordan": "Chemistry"
+                      }
+                    },
+                    "100": {
+                      "NationalITy": {
+                        "SaudiArabia": "IT",
+                        "Jordan": "IT",
+                        "Tunis": "French",
+                        "Palestine": "History"
+                      }
+                    },
+                    "80": {
+                      "VisITedResources": {
+                        "80": {
+                          "raisedhands": {
+                            "80": {
+                              "gender": {
+                                "M": "Arabic",
+                                "F": "Science"
+                              }
+                            },
+                            "100": "Arabic"
+                          }
+                        },
+                        "100": {
+                          "NationalITy": {
+                            "KW": "Arabic",
+                            "Palestine": {
+                              "gender": {
+                                "M": {
+                                  "PlaceofBirth": {
+                                    "Jordan": {
+                                      "StageID": {
+                                        "MiddleSchool": {
+                                          "GradeID": {
+                                            "G-07": "Biology",
+                                            "G-08": "History"
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "Jordan": "Geology"
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "80": {
+                  "AnnouncementsView": {
+                    "40": {
+                      "gender": {
+                        "F": {
+                          "NationalITy": {
+                            "KW": "IT",
+                            "SaudiArabia": "Science"
+                          }
+                        }
+                      }
+                    },
+                    "60": {
+                      "VisITedResources": {
+                        "100": {
+                          "GradeID": {
+                            "G-08": {
+                              "gender": {
+                                "F": {
+                                  "NationalITy": {
+                                    "KW": "Arabic",
+                                    "Jordan": "History"
+                                  }
+                                }
+                              }
+                            },
+                            "G-04": "English",
+                            "G-07": "Biology"
+                          }
+                        },
+                        "40": "English",
+                        "80": "Quran"
+                      }
+                    },
+                    "20": {
+                      "StageID": {
+                        "HighSchool": "Science",
+                        "lowerlevel": "IT",
+                        "MiddleSchool": "Quran"
+                      }
+                    },
+                    "100": {
+                      "gender": {
+                        "F": {
+                          "NationalITy": {
+                            "Egypt": "Quran",
+                            "KW": "Quran",
+                            "lebanon": "English",
+                            "Palestine": "Science",
+                            "Syria": "Biology"
+                          }
+                        },
+                        "M": {
+                          "NationalITy": {
+                            "Egypt": "Science",
+                            "Iraq": "Biology"
+                          }
+                        }
+                      }
+                    },
+                    "80": {
+                      "VisITedResources": {
+                        "80": {
+                          "NationalITy": {
+                            "Morocco": "French",
+                            "Palestine": "English",
+                            "Jordan": "Geology"
+                          }
+                        },
+                        "100": {
+                          "NationalITy": {
+                            "KW": "Science",
+                            "Syria": "Biology",
+                            "Jordan": "Geology",
+                            "Palestine": "Geology"
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "20": {
+                  "AnnouncementsView": {
+                    "20": {
+                      "raisedhands": {
+                        "20": {
+                          "gender": {
+                            "M": {
+                              "NationalITy": {
+                                "KW": {
+                                  "PlaceofBirth": {
+                                    "KuwaIT": {
+                                      "StageID": {
+                                        "MiddleSchool": {
+                                          "GradeID": {
+                                            "G-07": "Math",
+                                            "G-08": "Spanish"
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "60": "IT",
+                        "80": "IT",
+                        "100": "French"
+                      }
+                    },
+                    "60": {
+                      "VisITedResources": {
+                        "100": {
+                          "gender": {
+                            "M": {
+                              "NationalITy": {
+                                "KW": {
+                                  "PlaceofBirth": {
+                                    "KuwaIT": {
+                                      "StageID": {
+                                        "lowerlevel": "IT",
+                                        "MiddleSchool": "Quran"
+                                      }
+                                    }
+                                  }
+                                },
+                                "Tunis": "Spanish"
+                              }
+                            },
+                            "F": {
+                              "NationalITy": {
+                                "KW": "IT",
+                                "lebanon": "French"
+                              }
+                            }
+                          }
+                        },
+                        "80": {
+                          "NationalITy": {
+                            "Tunis": "Quran",
+                            "lebanon": "Spanish"
+                          }
+                        },
+                        "40": {
+                          "SectionID": {
+                            "B": "Arabic",
+                            "C": "Spanish"
+                          }
+                        }
+                      }
+                    },
+                    "100": {
+                      "gender": {
+                        "M": {
+                          "NationalITy": {
+                            "Jordan": {
+                              "PlaceofBirth": {
+                                "SaudiArabia": "Spanish",
+                                "Jordan": {
+                                  "StageID": {
+                                    "lowerlevel": "French",
+                                    "MiddleSchool": "Geology"
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "F": {
+                          "NationalITy": {
+                            "Jordan": {
+                              "PlaceofBirth": {
+                                "KuwaIT": "Spanish",
+                                "Jordan": {
+                                  "StageID": {
+                                    "lowerlevel": "French",
+                                    "MiddleSchool": "Chemistry"
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "40": {
+                      "gender": {
+                        "F": {
+                          "NationalITy": {
+                            "Jordan": {
+                              "PlaceofBirth": {
+                                "Jordan": {
+                                  "StageID": {
+                                    "lowerlevel": "French",
+                                    "MiddleSchool": "Chemistry"
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "80": "Chemistry"
+                  }
+                }
+              }
+            },
+            "No": {
+              "Discussion": {
+                "60": {
+                  "gender": {
+                    "M": "IT",
+                    "F": "Biology"
+                  }
+                },
+                "100": {
+                  "AnnouncementsView": {
+                    "40": {
+                      "gender": {
+                        "F": "Math",
+                        "M": "Science"
+                      }
+                    },
+                    "60": "IT",
+                    "80": {
+                      "gender": {
+                        "F": {
+                          "NationalITy": {
+                            "KW": "History",
+                            "Jordan": "English"
+                          }
+                        },
+                        "M": "Biology"
+                      }
+                    },
+                    "100": {
+                      "VisITedResources": {
+                        "100": {
+                          "gender": {
+                            "F": {
+                              "NationalITy": {
+                                "Jordan": {
+                                  "PlaceofBirth": {
+                                    "Jordan": {
+                                      "StageID": {
+                                        "MiddleSchool": "English",
+                                        "lowerlevel": "Science"
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "M": "Biology"
+                          }
+                        },
+                        "80": "Science"
+                      }
+                    },
+                    "20": "French"
+                  }
+                },
+                "20": {
+                  "NationalITy": {
+                    "KW": "IT",
+                    "Palestine": "French",
+                    "Iraq": "French",
+                    "Jordan": "French"
+                  }
+                },
+                "40": {
+                  "AnnouncementsView": {
+                    "40": {
+                      "gender": {
+                        "M": "French",
+                        "F": {
+                          "NationalITy": {
+                            "Jordan": {
+                              "PlaceofBirth": {
+                                "Jordan": {
+                                  "StageID": {
+                                    "MiddleSchool": "English",
+                                    "lowerlevel": "French"
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "100": {
+                      "gender": {
+                        "M": "Spanish",
+                        "F": {
+                          "NationalITy": {
+                            "Palestine": {
+                              "PlaceofBirth": {
+                                "Jordan": {
+                                  "StageID": {
+                                    "lowerlevel": {
+                                      "GradeID": {
+                                        "G-02": {
+                                          "SectionID": {
+                                            "A": {
+                                              "Semester": {
+                                                "F": {
+                                                  "Relation": {
+                                                    "Mum": {
+                                                      "raisedhands": {
+                                                        "80": "French",
+                                                        "100": "Arabic"
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "Jordan": "French"
+                          }
+                        }
+                      }
+                    },
+                    "60": {
+                      "VisITedResources": {
+                        "100": {
+                          "NationalITy": {
+                            "Jordan": "English",
+                            "Iraq": "English",
+                            "Palestine": "Arabic"
+                          }
+                        },
+                        "40": "English",
+                        "60": "English",
+                        "80": "English"
+                      }
+                    },
+                    "20": "Biology"
+                  }
+                },
+                "80": "History"
+              }
+            }
+          }
+        },
+        "Bad": {
+          "ParentAnsweringSurvey": {
+            "No": {
+              "Discussion": {
+                "100": {
+                  "AnnouncementsView": {
+                    "20": {
+                      "VisITedResources": {
+                        "20": "IT",
+                        "40": "IT",
+                        "100": {
+                          "gender": {
+                            "F": "English",
+                            "M": "IT"
+                          }
+                        }
+                      }
+                    },
+                    "40": {
+                      "GradeID": {
+                        "G-09": "IT",
+                        "G-07": "Quran",
+                        "G-08": "Spanish"
+                      }
+                    },
+                    "60": "Quran",
+                    "100": {
+                      "NationalITy": {
+                        "Jordan": "Quran",
+                        "KW": "Science"
+                      }
+                    },
+                    "80": "Geology"
+                  }
+                },
+                "40": {
+                  "AnnouncementsView": {
+                    "40": {
+                      "VisITedResources": {
+                        "100": {
+                          "GradeID": {
+                            "G-08": "Arabic",
+                            "G-04": "Science",
+                            "G-02": "French"
+                          }
+                        },
+                        "80": {
+                          "NationalITy": {
+                            "lebanon": "Quran",
+                            "Jordan": "Geology"
+                          }
+                        },
+                        "20": {
+                          "gender": {
+                            "M": {
+                              "NationalITy": {
+                                "KW": "French",
+                                "Jordan": "Arabic"
+                              }
+                            }
+                          }
+                        },
+                        "60": "Science"
+                      }
+                    },
+                    "20": {
+                      "VisITedResources": {
+                        "100": {
+                          "raisedhands": {
+                            "40": {
+                              "gender": {
+                                "M": {
+                                  "NationalITy": {
+                                    "Jordan": {
+                                      "PlaceofBirth": {
+                                        "Jordan": {
+                                          "StageID": {
+                                            "MiddleSchool": {
+                                              "GradeID": {
+                                                "G-07": "IT",
+                                                "G-06": "English"
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "80": "Spanish",
+                            "60": "Biology"
+                          }
+                        },
+                        "20": "IT",
+                        "80": {
+                          "NationalITy": {
+                            "KW": "Arabic",
+                            "Jordan": {
+                              "gender": {
+                                "M": "Biology",
+                                "F": "Geology"
+                              }
+                            }
+                          }
+                        },
+                        "40": "French"
+                      }
+                    },
+                    "100": {
+                      "gender": {
+                        "M": "French",
+                        "F": "English"
+                      }
+                    },
+                    "80": {
+                      "NationalITy": {
+                        "Morocco": "Arabic",
+                        "KW": "Spanish"
+                      }
+                    },
+                    "60": {
+                      "gender": {
+                        "F": "English",
+                        "M": "Arabic"
+                      }
+                    }
+                  }
+                },
+                "20": {
+                  "AnnouncementsView": {
+                    "20": {
+                      "GradeID": {
+                        "G-07": {
+                          "gender": {
+                            "M": {
+                              "NationalITy": {
+                                "KW": {
+                                  "PlaceofBirth": {
+                                    "KuwaIT": {
+                                      "StageID": {
+                                        "MiddleSchool": {
+                                          "SectionID": {
+                                            "A": "Math",
+                                            "B": "IT"
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "G-08": "Arabic",
+                        "G-06": "English"
+                      }
+                    },
+                    "40": "IT",
+                    "100": "IT",
+                    "60": "Spanish"
+                  }
+                },
+                "60": {
+                  "AnnouncementsView": {
+                    "20": "IT",
+                    "60": "French",
+                    "40": "Arabic",
+                    "80": "Arabic"
+                  }
+                },
+                "80": {
+                  "AnnouncementsView": {
+                    "20": {
+                      "gender": {
+                        "F": {
+                          "NationalITy": {
+                            "KW": "IT",
+                            "Jordan": "French"
+                          }
+                        }
+                      }
+                    },
+                    "100": "Quran",
+                    "60": "Science",
+                    "40": "Geology"
+                  }
+                }
+              }
+            },
+            "Yes": {
+              "Discussion": {
+                "100": {
+                  "AnnouncementsView": {
+                    "40": {
+                      "gender": {
+                        "M": "IT",
+                        "F": "Science"
+                      }
+                    },
+                    "20": "Math",
+                    "100": {
+                      "GradeID": {
+                        "G-02": "IT",
+                        "G-11": "Science",
+                        "G-08": "Spanish",
+                        "G-07": {
+                          "gender": {
+                            "M": {
+                              "NationalITy": {
+                                "KW": {
+                                  "PlaceofBirth": {
+                                    "KuwaIT": {
+                                      "StageID": {
+                                        "MiddleSchool": {
+                                          "SectionID": {
+                                            "B": {
+                                              "Semester": {
+                                                "S": {
+                                                  "Relation": {
+                                                    "Mum": {
+                                                      "raisedhands": {
+                                                        "80": {
+                                                          "VisITedResources": {
+                                                            "100": "Science"
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "80": {
+                      "gender": {
+                        "M": "Math",
+                        "F": "French"
+                      }
+                    },
+                    "60": {
+                      "raisedhands": {
+                        "20": "Arabic",
+                        "40": "Arabic",
+                        "100": "Spanish"
+                      }
+                    }
+                  }
+                },
+                "20": {
+                  "NationalITy": {
+                    "KW": "IT",
+                    "Tunis": "Quran",
+                    "USA": "French",
+                    "lebanon": "French"
+                  }
+                },
+                "60": {
+                  "NationalITy": {
+                    "lebanon": "Math",
+                    "KW": "Arabic",
+                    "Jordan": "Science"
+                  }
+                },
+                "40": {
+                  "NationalITy": {
+                    "KW": "IT",
+                    "Tunis": "French"
+                  }
+                },
+                "80": {
+                  "GradeID": {
+                    "G-07": {
+                      "gender": {
+                        "F": "Quran",
+                        "M": "Biology"
+                      }
+                    },
+                    "G-08": "Spanish",
+                    "G-06": "IT"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Above-7": {
+      "ParentschoolSatisfaction": {
+        "Bad": {
+          "ParentAnsweringSurvey": {
+            "No": {
+              "Discussion": {
+                "40": {
+                  "AnnouncementsView": {
+                    "20": {
+                      "VisITedResources": {
+                        "20": {
+                          "GradeID": {
+                            "G-04": "IT",
+                            "G-08": "Arabic",
+                            "G-07": {
+                              "gender": {
+                                "M": {
+                                  "NationalITy": {
+                                    "KW": {
+                                      "PlaceofBirth": {
+                                        "KuwaIT": {
+                                          "StageID": {
+                                            "MiddleSchool": {
+                                              "SectionID": {
+                                                "A": "English",
+                                                "B": "Science"
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "G-05": "English",
+                            "G-12": "English",
+                            "G-02": {
+                              "gender": {
+                                "M": {
+                                  "NationalITy": {
+                                    "KW": "IT",
+                                    "Jordan": "French"
+                                  }
+                                },
+                                "F": "IT"
+                              }
+                            }
+                          }
+                        },
+                        "40": {
+                          "gender": {
+                            "M": "IT",
+                            "F": "Science"
+                          }
+                        },
+                        "60": {
+                          "NationalITy": {
+                            "KW": "English",
+                            "Iran": "Spanish"
+                          }
+                        },
+                        "80": "French"
+                      }
+                    },
+                    "40": {
+                      "StageID": {
+                        "MiddleSchool": "English",
+                        "lowerlevel": "Arabic"
+                      }
+                    }
+                  }
+                },
+                "60": {
+                  "AnnouncementsView": {
+                    "20": {
+                      "VisITedResources": {
+                        "60": "IT",
+                        "20": {
+                          "gender": {
+                            "M": {
+                              "NationalITy": {
+                                "KW": "IT",
+                                "Iran": "French",
+                                "Jordan": "Chemistry"
+                              }
+                            },
+                            "F": "History"
+                          }
+                        },
+                        "40": "Arabic"
+                      }
+                    },
+                    "40": {
+                      "NationalITy": {
+                        "SaudiArabia": "English",
+                        "Egypt": "Science",
+                        "Jordan": "Science"
+                      }
+                    },
+                    "100": {
+                      "gender": {
+                        "F": "French",
+                        "M": "Arabic"
+                      }
+                    },
+                    "60": "Arabic"
+                  }
+                },
+                "20": {
+                  "AnnouncementsView": {
+                    "20": {
+                      "VisITedResources": {
+                        "20": {
+                          "raisedhands": {
+                            "40": "Math",
+                            "20": {
+                              "Relation": {
+                                "Father": {
+                                  "Semester": {
+                                    "F": {
+                                      "GradeID": {
+                                        "G-04": "IT",
+                                        "G-06": "IT",
+                                        "G-10": "IT",
+                                        "G-12": "English",
+                                        "G-11": "Quran",
+                                        "G-02": "IT",
+                                        "G-08": "Chemistry"
+                                      }
+                                    },
+                                    "S": {
+                                      "GradeID": {
+                                        "G-02": "IT",
+                                        "G-07": "Quran",
+                                        "G-04": "History",
+                                        "G-08": "Chemistry"
+                                      }
+                                    }
+                                  }
+                                },
+                                "Mum": "Biology"
+                              }
+                            },
+                            "100": "Math",
+                            "60": "Science"
+                          }
+                        },
+                        "40": {
+                          "raisedhands": {
+                            "60": "IT",
+                            "80": "English",
+                            "40": "Science"
+                          }
+                        },
+                        "60": "Spanish",
+                        "100": {
+                          "gender": {
+                            "M": "Science",
+                            "F": "Quran"
+                          }
+                        }
+                      }
+                    },
+                    "60": {
+                      "PlaceofBirth": {
+                        "Tunis": "Quran",
+                        "KuwaIT": "Science",
+                        "Egypt": "Math"
+                      }
+                    },
+                    "40": {
+                      "NationalITy": {
+                        "lebanon": "Arabic",
+                        "Tunis": "Spanish",
+                        "KW": "Spanish"
+                      }
+                    },
+                    "100": {
+                      "gender": {
+                        "M": {
+                          "NationalITy": {
+                            "Jordan": {
+                              "PlaceofBirth": {
+                                "Jordan": {
+                                  "StageID": {
+                                    "lowerlevel": {
+                                      "GradeID": {
+                                        "G-04": "Science",
+                                        "G-02": "French"
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "100": {
+                  "AnnouncementsView": {
+                    "60": "Math",
+                    "100": {
+                      "GradeID": {
+                        "G-07": "IT",
+                        "G-11": "Spanish",
+                        "G-06": "Math",
+                        "G-02": "Arabic"
+                      }
+                    },
+                    "40": {
+                      "VisITedResources": {
+                        "20": {
+                          "gender": {
+                            "M": "Math",
+                            "F": "Arabic"
+                          }
+                        },
+                        "100": {
+                          "NationalITy": {
+                            "KW": "IT",
+                            "Jordan": "Arabic"
+                          }
+                        }
+                      }
+                    },
+                    "20": {
+                      "GradeID": {
+                        "G-05": "English",
+                        "G-07": "Science",
+                        "G-02": "Arabic",
+                        "G-08": "Chemistry"
+                      }
+                    }
+                  }
+                },
+                "80": {
+                  "NationalITy": {
+                    "KW": {
+                      "gender": {
+                        "F": {
+                          "PlaceofBirth": {
+                            "KuwaIT": {
+                              "StageID": {
+                                "MiddleSchool": "IT",
+                                "HighSchool": "English"
+                              }
+                            }
+                          }
+                        },
+                        "M": "IT"
+                      }
+                    },
+                    "Jordan": "History"
+                  }
+                }
+              }
+            },
+            "Yes": {
+              "Discussion": {
+                "80": {
+                  "AnnouncementsView": {
+                    "20": "IT",
+                    "40": "Spanish",
+                    "100": "History",
+                    "60": "Arabic"
+                  }
+                },
+                "20": "English",
+                "60": {
+                  "gender": {
+                    "M": "IT",
+                    "F": "French"
+                  }
+                },
+                "100": {
+                  "GradeID": {
+                    "G-07": "Quran",
+                    "G-06": "English",
+                    "G-02": "Arabic"
+                  }
+                },
+                "40": {
+                  "gender": {
+                    "F": "Arabic",
+                    "M": "English"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "Good": {
+          "ParentAnsweringSurvey": {
+            "Yes": {
+              "Discussion": {
+                "80": {
+                  "AnnouncementsView": {
+                    "20": "IT",
+                    "60": "Science",
+                    "100": {
+                      "gender": {
+                        "M": {
+                          "NationalITy": {
+                            "Iraq": {
+                              "PlaceofBirth": {
+                                "Iraq": {
+                                  "StageID": {
+                                    "lowerlevel": "Science",
+                                    "MiddleSchool": "Geology"
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "80": {
+                      "NationalITy": {
+                        "Palestine": "Science",
+                        "Jordan": "History"
+                      }
+                    }
+                  }
+                },
+                "100": {
+                  "AnnouncementsView": {
+                    "40": {
+                      "gender": {
+                        "M": {
+                          "NationalITy": {
+                            "KW": "IT",
+                            "Syria": "Spanish"
+                          }
+                        }
+                      }
+                    },
+                    "20": {
+                      "gender": {
+                        "M": {
+                          "NationalITy": {
+                            "KW": {
+                              "PlaceofBirth": {
+                                "KuwaIT": {
+                                  "StageID": {
+                                    "MiddleSchool": "Math",
+                                    "lowerlevel": "IT"
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "F": "IT"
+                      }
+                    },
+                    "80": {
+                      "VisITedResources": {
+                        "100": {
+                          "gender": {
+                            "M": {
+                              "NationalITy": {
+                                "KW": "Math",
+                                "Jordan": "Chemistry",
+                                "Iraq": "History"
+                              }
+                            }
+                          }
+                        },
+                        "80": {
+                          "gender": {
+                            "M": {
+                              "NationalITy": {
+                                "Iraq": "Science",
+                                "Jordan": "Chemistry"
+                              }
+                            }
+                          }
+                        },
+                        "60": "Science"
+                      }
+                    },
+                    "60": "Geology",
+                    "100": "History"
+                  }
+                },
+                "20": {
+                  "AnnouncementsView": {
+                    "100": {
+                      "VisITedResources": {
+                        "20": "IT",
+                        "80": {
+                          "gender": {
+                            "M": "French",
+                            "F": "Geology"
+                          }
+                        },
+                        "100": "French"
+                      }
+                    },
+                    "20": {
+                      "VisITedResources": {
+                        "20": {
+                          "gender": {
+                            "M": {
+                              "NationalITy": {
+                                "USA": "Math",
+                                "KW": {
+                                  "PlaceofBirth": {
+                                    "KuwaIT": {
+                                      "StageID": {
+                                        "MiddleSchool": "Math",
+                                        "lowerlevel": "IT"
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "40": "IT",
+                        "100": {
+                          "gender": {
+                            "F": "IT",
+                            "M": "English"
+                          }
+                        }
+                      }
+                    },
+                    "60": {
+                      "gender": {
+                        "M": "IT",
+                        "F": {
+                          "NationalITy": {
+                            "KW": "IT",
+                            "Jordan": "Biology"
+                          }
+                        }
+                      }
+                    },
+                    "40": {
+                      "gender": {
+                        "M": "Arabic",
+                        "F": "French"
+                      }
+                    },
+                    "80": "Chemistry"
+                  }
+                },
+                "60": {
+                  "NationalITy": {
+                    "KW": "IT",
+                    "Syria": "Quran",
+                    "Jordan": {
+                      "gender": {
+                        "F": {
+                          "PlaceofBirth": {
+                            "Jordan": {
+                              "StageID": {
+                                "MiddleSchool": {
+                                  "GradeID": {
+                                    "G-07": "Science",
+                                    "G-08": "Geology"
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "M": "Arabic"
+                      }
+                    }
+                  }
+                },
+                "40": {
+                  "AnnouncementsView": {
+                    "20": {
+                      "gender": {
+                        "M": {
+                          "NationalITy": {
+                            "KW": {
+                              "PlaceofBirth": {
+                                "KuwaIT": {
+                                  "StageID": {
+                                    "MiddleSchool": "Science",
+                                    "HighSchool": "IT"
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "40": {
+                      "VisITedResources": {
+                        "40": "IT",
+                        "60": "French",
+                        "80": "English",
+                        "100": "Arabic"
+                      }
+                    },
+                    "60": {
+                      "gender": {
+                        "F": "History",
+                        "M": "Arabic"
+                      }
+                    },
+                    "80": {
+                      "StageID": {
+                        "lowerlevel": "Arabic",
+                        "MiddleSchool": "Chemistry"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "No": {
+              "Discussion": {
+                "80": "Quran",
+                "60": {
+                  "NationalITy": {
+                    "KW": {
+                      "gender": {
+                        "M": {
+                          "PlaceofBirth": {
+                            "KuwaIT": {
+                              "StageID": {
+                                "HighSchool": "English",
+                                "lowerlevel": "IT"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "Jordan": "French"
+                  }
+                },
+                "100": {
+                  "gender": {
+                    "F": "English",
+                    "M": "IT"
+                  }
+                },
+                "20": {
+                  "AnnouncementsView": {
+                    "40": {
+                      "gender": {
+                        "F": "IT",
+                        "M": "English"
+                      }
+                    },
+                    "20": {
+                      "NationalITy": {
+                        "KW": "IT",
+                        "Lybia": {
+                          "gender": {
+                            "M": "French",
+                            "F": "Biology"
+                          }
+                        },
+                        "Egypt": "French",
+                        "Jordan": "Arabic"
+                      }
+                    },
+                    "60": {
+                      "gender": {
+                        "M": {
+                          "NationalITy": {
+                            "Iran": "French",
+                            "KW": "Spanish"
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "40": {
+                  "VisITedResources": {
+                    "20": {
+                      "gender": {
+                        "M": {
+                          "NationalITy": {
+                            "Jordan": {
+                              "PlaceofBirth": {
+                                "Jordan": {
+                                  "StageID": {
+                                    "lowerlevel": {
+                                      "GradeID": {
+                                        "G-04": "Science",
+                                        "G-02": "French"
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "40": "Science",
+                    "80": "Biology",
+                    "100": "Biology"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
