@@ -12,7 +12,7 @@ function restartTree(){
     askTree();
 }
 
-// preocess input
+// process input
 function askTree() {
     // grey out previous qustions
     $('#formdiv').children().css("opacity", "0.5");
@@ -29,19 +29,24 @@ function askTree() {
         $('#formdiv').html(answer);
     }
     // if there is no leaf create a select the different classes of the branch
-    else{for (var item in tree) {
-        var question = `<p>${item}?</p>
-                        <select name="${item}" id="${item}">`
-        for (var option in tree[item]){
-            question += `<option value="${option}">${option}</option>`
-        }
-        question += `</select>
-                    <button onclick="askTree()">Confirm</button>`
-        // save handled item
-        prev_item = item
-        // move tree forward
-        tree = tree[item];
-        // put new question into html
-        $('#formdiv').append(question);}
+    else{
+        // step through classes (there is always just one class but we dont know what it is called so this is easiest)
+        for (var item in tree) {
+            // setup select with name of class
+            var question = `<p>${item}?</p>
+                            <select name="${item}" id="${item}">`
+            // go through options of said class and put them into select
+            for (var option in tree[item]){
+                question += `<option value="${option}">${option}</option>`
+            }
+            // finish select and add submit button
+            question += `</select>
+                         <button onclick="askTree()">Confirm</button>`
+            // save handled item
+            prev_item = item
+            // move tree forward
+            tree = tree[item];
+            // put new question into html
+            $('#formdiv').append(question);}
     }
 }
