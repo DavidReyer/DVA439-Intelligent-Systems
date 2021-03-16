@@ -6,6 +6,7 @@
 <script>
     tree = {{ edu_tree | safe }};
     orig_tree = tree;
+    orig_title = "{{ title }}";
 </script>
 
 <div class="container">
@@ -18,8 +19,8 @@
             </div>
         </div>
         <div class="col">
-            <h1 class="text-center">
-                Do you know what is your {{ title }}?
+            <h1 class="text-center" id="title">
+                Do you want to know your {{ title }}?
             </h1>
             <div id="formdiv">
 

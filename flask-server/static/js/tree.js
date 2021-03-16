@@ -2,6 +2,7 @@ var orig_tree = null;
 var tree = null;
 var prev_item = null;
 var prev_val = null;
+var orig_title = null;
 
 // clears out form and resets the tree
 function restartTree() {
@@ -9,6 +10,7 @@ function restartTree() {
     tree = orig_tree;
     prev_item = null;
     prev_val = null;
+    $('#title').text("Do you want to know your " + orig_title +"?")
     $('#start_btn').attr("onclick", "askTree()");
     $('#start_btn').text('Start');
     askTree();
@@ -29,24 +31,31 @@ function askTree() {
     }
     // on a leaf of the tree there is a string
     if (typeof tree === "string") {
-        console.log("success");
-        var answer = `<h1> ${tree} </h1>`;
+        if (orig_title === "Course"){
+            $('#title').text("You should take " + tree);
+        }else {
+            $('#title').text("You will probably have " + tree);
+        }
         $('#start_btn').attr("onclick", "restartTree()");
         $('#start_btn').text('Restart');
-        $('#formdiv').html(answer);
+        $('#formdiv').html("");
     }
     // if there is no leaf create a select the different classes of the branch
     else {
         for (var item in tree) {
             console.log(item);
             var question = `<br><br><p>${item}?</p>`;
+            var firstoption = true;
             for (var option in tree[item]) {
-                question += `<div class="form-check">
-                    <input class="form-check-input" type="radio" value="${option}" name="${item}" id="${option}">
-                    <label class="form-check-label" for="${option}">
-                        ${option}
-                    </label>
-                </div>`;
+                question += `<div class="form-check">`
+                    if (firstoption) {
+                        console.log("bluurb");
+                        question += `<input class="form-check-input" type="radio" value="${option}" name="${item}" id="${option}" checked>`;
+                        firstoption = false;
+                    } else {
+                        question += `<input class="form-check-input" type="radio" value="${option}" name="${item}" id="${option}">`;
+                    }
+                    question += `<label class="form-check-label" for="${option}">${option}</label></div>`;
             }
             // save handled item
             prev_item = item;
@@ -54,6 +63,8 @@ function askTree() {
             tree = tree[item];
             // put new question into html
             $('#formdiv').append(question);
+            // set button to "continue"
+            $('#start_btn').text('Continue');
         }
     }
 }
